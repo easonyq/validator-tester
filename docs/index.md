@@ -14,3 +14,9 @@ Hello this is validator tester.
 &nbsp;&nbsp;&nbsp;&nbsp;| **`!`** *`expr`*\
 &nbsp;&nbsp;&nbsp;&nbsp;| *`expr`* **`==`** *`expr`*\
 &nbsp;&nbsp;&nbsp;&nbsp;| *`expr`* **`!=`** *`expr`*
+
+
+# Links
+
+[bing.com](http://bing.com) is a link that will not be reported in the past.
+[microsoft.com](http://microsoft.com/abc) is a link that will also be reported in the past.
