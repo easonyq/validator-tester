@@ -16,10 +16,10 @@ Hello this is validator tester.
 &nbsp;&nbsp;&nbsp;&nbsp;| *`expr`* **`!=`** *`expr`*
 
 *`cxzExpr`*\
-&emsp; *`expr`*\
-&emsp; &vert; **`!`** *`expr`*\
-&emsp; &vert; *`expr`* **`==`** *`expr`*\
-&emsp; &vert; *`expr`* **`!=`** *`expr`*
+&nbsp;&nbsp;&nbsp;&nbsp; *`expr`*\
+&nbsp;&nbsp;&nbsp;&nbsp; &vert; **`!`** *`expr`*\
+&nbsp;&nbsp;&nbsp;&nbsp; &vert; *`expr`* **`==`** *`expr`*\
+&nbsp;&nbsp;&nbsp;&nbsp; &vert; *`expr`* **`!=`** *`expr`*
 
 
 ## Links
