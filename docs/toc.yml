@@ -1,5 +1,7 @@
 items:
 - name: Parsing JSON and AVRO data
   href: https://docs.microsoft.com/azure/stream-analytics/stream-analytics-parsing-json
+- name: Index
+  href: ./index.md
 - name: File 1
   href: ./file1.md
