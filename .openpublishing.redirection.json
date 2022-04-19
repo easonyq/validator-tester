@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path_from_root": "/file1-not-exist",
+      "redirect_url": "/file1",
+      "redirect_document_id": false
+    }
+  ]
+}
