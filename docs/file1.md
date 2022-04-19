@@ -6,3 +6,7 @@ ms.date: 04/06/2022
 ---
 
 # This is file 1
+
+![panda](./images/panda.jpg)
+
+![mario](./images/mario.png)
