@@ -1,8 +1,0 @@
-- name: Overview
-  items:
-  - name: File 1
-    href: ./file1.md
-- name: QuickStarts
-  items:
-  - name: File 2
-    href: ./file2.md
