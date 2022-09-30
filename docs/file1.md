@@ -16,3 +16,5 @@ ms.date: 04/06/2022
 [absolute path](/validator-tester/file2)
 
 [full url](https://dev.learn.microsoft.com/validator-tester/file2)
+
+[with host name](https://learn.microsoft.com/powershell/dsc/concepts/configurations?view=dsc-2.0)
