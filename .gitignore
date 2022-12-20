@@ -1,6 +1,7 @@
 log/
 obj/
 _site/
+_sites/
 .optemp/
 _themes*/
 _repo.*/
