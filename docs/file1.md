@@ -17,4 +17,4 @@ ms.date: 04/06/2022
 
 [full url](https://dev.learn.microsoft.com/validator-tester/file2)
 
-[broken link](https://learn.microsoft.com/validator-tester/not-exist)
+[broken link](https://httpstat.us/403)
