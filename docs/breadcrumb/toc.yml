@@ -2,6 +2,6 @@
   tocHref: /validator-tester/
   topicHref: /validator-tester
   items:
-  - name: Relative File1
+  - name: Relative File1.md
     tocHref: /validator-tester/
-    topicHref: ../file1
+    topicHref: ../file1.md
