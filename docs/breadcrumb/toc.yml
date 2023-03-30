@@ -4,4 +4,4 @@
   items:
   - name: File1
     tocHref: /validator-tester/
-    topicHref: /validator-tester/file1
+    topicHref: ../file1
