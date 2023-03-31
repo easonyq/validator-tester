@@ -4,7 +4,7 @@
   items:
   - name: Relative File1.md
     tocHref: /validator-tester/file1
-    topicHref: ../file1.md
+    topicHref: /validator-tester/file1
   - name: Relative File2.md
     tocHref: /validator-tester/sub-folder/file2
     topicHref: ../sub-folder/file2.md
