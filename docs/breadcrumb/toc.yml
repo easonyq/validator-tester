@@ -3,19 +3,11 @@
   topicHref: /validator-tester
   items:
   - name: Relative File1.md
-    tocHref: /validator-tester/
+    tocHref: /validator-tester/file1
     topicHref: ../file1.md
-- name: Validator Tester
-  tocHref: /validator-tester/
-  topicHref: /validator-tester
-  items:
   - name: Relative File2.md
-    tocHref: /validator-tester/
+    tocHref: /validator-tester/sub-folder/file2
     topicHref: ../sub-folder/file2.md
-- name: Validator Tester
-  tocHref: /validator-tester/
-  topicHref: /validator-tester
-  items:
-    - name: Relative FileNotExist.md
-      tocHref: /validator-tester/
-      topicHref: ../file-not-exist.md
+  - name: Relative FileNotExist.md
+    tocHref: /validator-tester/sub-folder/file3
+    topicHref: ../file-not-exist.md
