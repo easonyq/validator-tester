@@ -17,21 +17,22 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "docs/sub-folder/**"
+          "docs/sub-folder/**",
+          "sub-folder/**"
         ]
       },
       {
         "group": "eason",
         "src": "docs/sub-folder",
-        "dest": "./eason",
+        "dest": "./eason/",
         "files": [
           "**/*.md",
           "**/*.yml"
         ],
         "exclude": [
-            "**/_themes/**",
-            "**/includes/**",
-            "**/obj/**"
+          "**/_themes/**",
+          "**/includes/**",
+          "**/obj/**"
         ]
       }
     ],
