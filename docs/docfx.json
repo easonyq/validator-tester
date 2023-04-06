@@ -2,8 +2,6 @@
   "build": {
     "content": [
       {
-        "src": "docs",
-        "dest": ".",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -19,7 +17,7 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "sub-folder/**"
+          "docs/sub-folder/**"
         ]
       },
       {
