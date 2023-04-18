@@ -20,6 +20,6 @@ landingContent:
       - linkListType: how-to-guide
         links:
           - text: Alerts 
-            url: /alerts/alerts-overview.md
+            url: /origin-sub-file1.md
           - text: Autoscale
             url: /autoscale/autoscale-overview.md
