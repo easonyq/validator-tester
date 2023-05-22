@@ -11,15 +11,14 @@ metadata:
   ms.custom: ignite-2022
   author: rboucher
   ms.author: robb
-  ms.date: 03/14/2023
 
 landingContent:
   # Card
   - title: Respond to issues2
-    linkLists: 
+    linkLists:
       - linkListType: how-to-guide
         links:
-          - text: Alerts 
+          - text: Alerts
             url: /origin-sub-file1.md
           - text: Autoscale
             url: /autoscale/autoscale-overview.md
