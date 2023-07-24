@@ -2,8 +2,8 @@
 title: "Validator Tester File 2"
 description: "Validator Tester File 2"
 author: yiswan
-products: easonProduct
-ms.devlang: eason
+products: easonProduct # not validated now
+ms.devlang: eason # not validated now
 ms.topic: eason
 ---
 
