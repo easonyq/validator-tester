@@ -12,3 +12,5 @@ ms.technology: eason
 # This is file 2
 
 Mainly for testing metadata
+
+<abc>Invalid html tag</abc>

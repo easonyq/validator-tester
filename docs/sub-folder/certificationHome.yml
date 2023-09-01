@@ -11,10 +11,6 @@ roles:
     summary: 管理员实施、监视和维护 Microsoft 解决方案。
     url: /learn/certifications/roles/administrator
 
-products:
-  - azure-storage
-  - azure-defender-iot
-
 certificationsSection:
   title: 通过 Microsoft 认证
   summary: "Microsoft 拥有许多技术工作角色的认证途径。这些认证中的每一项都包括通过一系列考试以获得认证。"

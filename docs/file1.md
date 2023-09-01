@@ -11,6 +11,10 @@ ms.date: 04/06/2022
 
 ![mario](./images/mario.png)
 
+![remote images in Learn](https://learn.microsoft.com/en-us/dotnet/core/tutorials/media/top-level-templates/vs-additional-information.png)
+
+![remote images in External site](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)
+
 [relative path](./file2.md)
 
 [absolute path](/validator-tester/file2)
