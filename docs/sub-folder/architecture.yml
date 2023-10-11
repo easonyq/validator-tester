@@ -13,7 +13,7 @@ azureCategories:
 products:
   - azure-storage
   - azure-defender-iot
-  - azure-dev-tool-integrations
+  - azure-cognitive-services
 name: CQRS pattern
 summary: Learn how to segregate operations that read data from those that update data, using the CQRS (Command and Query Responsibility Segregation) pattern.
 thumbnailUrl: /azure/architecture/browse/thumbs/command-query-responsibility-segregation-separate-stores.png
