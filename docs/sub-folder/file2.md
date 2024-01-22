@@ -4,6 +4,8 @@ description: "Validator Tester File 2"
 author: yiswan
 devlang: csharp
 ms.date: 2023/7/25
+ms.service: configuration-manager
+ms.subservice: other
 ---
 
 # This is file 2
