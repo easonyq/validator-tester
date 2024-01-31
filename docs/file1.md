@@ -24,3 +24,19 @@ ms.service: access
 [full url](https://dev.learn.microsoft.com/validator-tester/file2)
 
 [download url](https://download.microsoft.com/download/6/0/c/60cda387-bf3f-4fb3-a8d0-d210690d4ee0/Icons.zip)
+
+## Test table
+
+| &nbsp; | &nbsp; |
+|---|---|
+| **Specifications**  | Device.Network.NetworkAdapter.NdisPollTest |
+| **Platforms**   | Windows Server (x64); Windows Server (ARM64) |
+|**Expected run time (in minutes)**| 2 |
+|**Category**| Development |
+|**Timeout (in minutes)**| 10 |
+|**Requires reboot**| false |
+|**Requires special configuration**| false |
+|**Type**| automatic |
+|**Network driver framework**| NDIS | 
+
+## <span id="Additional_documentation"></span><span id="additional_documentation"></span><span id="ADDITIONAL_DOCUMENTATION"></span>Additional documentation
