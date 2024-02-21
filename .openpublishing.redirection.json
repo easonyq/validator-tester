@@ -9,6 +9,11 @@
       "source_path_from_root": "/docs/another-file1-not-exist.md",
       "redirect_url": "/validator-tester/redirect-to-unexist-page",
       "redirect_document_id": false
+    },
+    {
+      "source_path_from_root": "/docs/context/context.yml",
+      "redirect_url": "/validator-tester/redirect-context",
+      "redirect_document_id": false
     }
   ]
 }
