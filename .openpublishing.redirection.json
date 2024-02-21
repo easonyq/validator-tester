@@ -11,7 +11,7 @@
       "redirect_document_id": false
     },
     {
-      "source_path_from_root": "/docs/context/context2.yml",
+      "source_path_from_root": "/docs/context/context2.json",
       "redirect_url": "/validator-tester/context/context.json",
       "redirect_document_id": false
     }
