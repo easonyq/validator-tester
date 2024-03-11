@@ -4,7 +4,6 @@ description: "Validator Tester"
 author: yiswan
 ms.date: 03/09/2022
 role: developer
-product: windows
 ---
 
 # Hello World
