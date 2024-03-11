@@ -56,7 +56,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/validator-tester/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "product": "windows"
     },
     "fileMetadata": {},
     "template": [],
