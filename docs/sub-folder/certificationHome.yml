@@ -1,0 +1,97 @@
+### YamlMime:CertificationHome
+metadata:
+  ms.date: eason
+title: Microsoft Certifications
+summary: 获得认证表明您正在紧随当今的技术角色和要求。选择工作角色以发现认证路径。
+
+roles:
+  - name: developer
+    summary: 开发人员设计、构建、测试和维护云解决方案。
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: 管理员实施、监视和维护 Microsoft 解决方案。
+    url: /learn/certifications/roles/administrator
+
+certificationsSection:
+  title: 通过 Microsoft 认证
+  summary: "Microsoft 拥有许多技术工作角色的认证途径。这些认证中的每一项都包括通过一系列考试以获得认证。"
+  tiers:
+    - title: Fundamentals 认证
+      summary: 推荐入门。非常适合刚从事技术领域或考虑更换职业的个人。
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: 浏览基础认证
+        url: /learn/certifications/browse/?type=fundamentals
+    - title: 基于角色的认证
+      summary: 选择基于角色的认证，以开始学习宝贵的工作角色技能。
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: 浏览基于角色的认证
+        url: /learn/certifications/browse?resource_type=certification
+
+upworkSection:
+    title: 您想赚取额外收入吗？
+    summary: 我们与 Upwork 合作，将 Azure 认证的自由职业者与客户联络起来。
+    signupLink:
+        text: 使用 Upwork 注册
+        url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
+
+trainingSection:
+  title: 如何准备认证
+  summary: Microsoft了解每个人都有不同的学习偏好，因此我们在整个认证过程中提供认证和培训选项。
+  items:
+  - image:
+      alt: 正在看 Microsoft Surface 的女性
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: 通过自由学习进行准备
+    summary: 借助 Microsoft Learn，任何人都可以按照自己的进度和时间表掌握核心概念。无论是学习核心任务的单个模块，还是通过相关模块的集合全面探讨主题的模块。
+    browseLinks:
+    - text: 浏览所有学习路径
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: 向桌子周围坐着的四个人作展示的男性
+      src: /learn/certifications/images/image-working-group.jpg
+    title: 准备由讲师指导的培训
+    summary: Microsoft Learning Partner 提供了广泛的解决方案，可以满足您的学习需求，使您能够实现您的培训目标。Microsoft Certified Trainers 都已经过严格的培训，并且已经达到了严苛的技术认证要求。
+    browseLinks:
+    - text: 浏览所有讲师指导的培训
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: 学习资源
+  items:
+    - title: 寻找 Microsoft Learning Partner
+      summary: 我们的全球合作伙伴网络可以为 Microsoft 技术提供灵活的、基于解决方案的定制培训。
+      url: https://www.microsoft.com/learning/partners.aspx
+    - title: 为认证和考试提供的支持
+      summary: 通过支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+      url: /learn/certifications/help
+    - title: 浏览所有认证和考试
+      summary: 探索所有认证，将您的职业提升到一个新的水平。
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Microsoft认证
+  summary: 通过提供全球和行业认可的技能掌握证据，Microsoft认证体现了在数字和cloud业务中的专业优势。
+  video:
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
+    iframeTitle: Microsoft Certifications
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: 认证的好处
+    summary: 获得证书后，67%的专业技术人员表示，他们对自己的工作能力更有自信了，41%的人表示工作满意度提高了，35%的人表示薪水或工资增加了。- “2018 Pearson VUE IT认证价值”。
+  items:
+    - title: 91%
+      summary: 通过认证的IT专业人士表示，认证让他们在专业上更有信誉。
+      note: 2018 Pearson VUE认证价值
+    - title: 52%
+      summary: 通过认证的IT专业人士表示，他们的专业知识在其组织内部更受欢迎。
+      note: Global Knowledge 2019 IT技能和薪资报告
+    - title: 93%
+      summary: 决策者们对于通过认证的员工能提供附加价值均表示赞同。
+      note: Global Knowledge 2019 IT Decision Makers Insights

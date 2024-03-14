@@ -1,0 +1,10 @@
+- name: Validator Tester
+  tocHref: /validator-tester/
+  topicHref: /validator-tester
+  items:
+  - name: Relative to File2.md
+    tocHref: /validator-tester/file1
+    topicHref: ../sub-folder/file2.md
+  - name: Relative to FileNotExist.md
+    tocHref: /validator-tester/eason/file3
+    topicHref: ../file-not-exist.md

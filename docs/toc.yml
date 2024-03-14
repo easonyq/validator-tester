@@ -3,3 +3,5 @@ items:
   href: https://docs.microsoft.com/azure/stream-analytics/stream-analytics-parsing-json
 - name: File 1
   href: ./file1.md
+- name: File 2
+  href: ./sub-folder/file2.md

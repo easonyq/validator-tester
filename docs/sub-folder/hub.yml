@@ -1,0 +1,45 @@
+### YamlMime:Hub
+
+title: Azure community support
+summary: Ask your Azure technical questions, find answers, and get Azure support provided by Microsoft engineers, community experts, and validated by customers. New to Q&A? See our get started article below.
+brand: azure
+
+metadata:
+  title: Azure community support
+  description: Ask your Azure technical questions, find answers, and get Azure support provided by Microsoft engineers, community experts, and validated by customers.
+  services: azure
+  ms.service: azure-common-issues-support
+  ms.topic: hub-page
+  author: saldana
+  ms.author: saldana
+  ms.date: 10/26/2021
+  featureFlags:
+  - clicktale
+  brand: docs
+  keywords: Azure issue, Microsoft online help, developer support, IT support, Azure problem, Azure forums, Microsoft community support, Microsoft developer support, Azure developer support, technical support forum
+
+highlightedContent:
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample tutorial | video | whats-new
+  items:
+    # Card
+    - title: Get started with Q&A
+      itemType: overview
+      url: ../support/
+
+productDirectory:
+  title: Get developer and IT support for your Azure product questions
+  items:
+    # Card
+    - title: Anomaly Detector
+      summary: Easily add anomaly detection capabilities to your apps
+      imageSrc: https://static.docs.com/ui/media/product/azure/anomaly-detector.svg
+      azureCategories:
+        - ai-machine-learning
+      url: /answers/topics/azure-anomaly-detector.html
+    # Card
+    - title: Azure Bot Service
+      summary: Intelligent, serverless bot service that scales on demand
+      imageSrc: https://static.docs.com/ui/media/product/azure/bot-service.svg
+      azureCategories:
+        - iot
+      url: /answers/topics/azure-bot-service.html

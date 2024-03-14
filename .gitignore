@@ -1,8 +1,11 @@
 log/
 obj/
 _site/
+_sites/
 .optemp/
 _themes*/
 _repo.*/
+locBuildJsonOutputs/
+locBuildOutputs/
 
 .openpublishing.buildcore.ps1

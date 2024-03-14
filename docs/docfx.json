@@ -16,7 +16,22 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md"
+          "ThirdPartyNotices.md",
+          "sub-folder/**"
+        ]
+      },
+      {
+        "group": "eason",
+        "src": "sub-folder",
+        "dest": "./eason/",
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/_themes/**",
+          "**/includes/**",
+          "**/obj/**"
         ]
       }
     ],
@@ -41,7 +56,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/validator-tester/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "product": ["Windows"]
     },
     "fileMetadata": {},
     "template": [],

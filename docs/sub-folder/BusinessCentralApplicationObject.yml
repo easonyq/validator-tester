@@ -1,0 +1,12 @@
+### YamlMime:BusinessCentralApplicationObject
+uid: "O:Codeunit::AAD_Application_Interface"
+name: "AAD Application Interface"
+alId: ID 8820
+commentId: "O:Codeunit::AAD Application Interface"
+parent: "N:Module::Base_Application"
+baseKind: CodeUnit
+kind: CodeUnit
+langs:
+  - al
+seeAlso:
+- "[Code Unit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)"

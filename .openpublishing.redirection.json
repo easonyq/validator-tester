@@ -4,6 +4,16 @@
       "source_path_from_root": "/docs/file1-not-exist.md",
       "redirect_url": "/validator-tester/file1",
       "redirect_document_id": false
+    },
+    {
+      "source_path_from_root": "/docs/another-file1-not-exist.md",
+      "redirect_url": "/validator-tester/redirect-to-unexist-page",
+      "redirect_document_id": false
+    },
+    {
+      "source_path_from_root": "/docs/context/context2.json.yml",
+      "redirect_url": "/validator-tester/context/context.json",
+      "redirect_document_id": false
     }
   ]
 }
