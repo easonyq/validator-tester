@@ -5,6 +5,8 @@ author: yiswan
 ms.date: 04/06/2022
 ms.prod: dotnet-roslyn-api
 ms.service: access
+ai-usage: random-value
+contributor-type: invalid
 ---
 
 # This is file 1
