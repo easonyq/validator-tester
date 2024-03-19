@@ -13,6 +13,8 @@ metadata:
   author: saldana
   ms.author: saldana
   ms.date: 10/26/2021
+  ai-usage: random-value
+  contributor-type: invalid
   featureFlags:
   - clicktale
   brand: docs
